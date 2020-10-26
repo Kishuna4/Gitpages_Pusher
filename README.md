@@ -1,6 +1,8 @@
 # Gitpages_Pusher
 
-## Project 1
+## Coursera Projects
+
+### <b>Machine Learning - Population Variance</b>
 
 <li> This is the first entry.</li>
 <li> This is the second.</li>
