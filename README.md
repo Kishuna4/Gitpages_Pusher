@@ -1,6 +1,6 @@
 # Gitpages_Pusher
 
-Project 1
+## Project 1
 
 <li> This is the first entry.</li>
 <li> This is the second.</li>
